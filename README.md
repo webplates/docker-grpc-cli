@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/webplates/docker-grpc-cli.svg?style=flat-square)](https://travis-ci.org/webplates/docker-grpc-cli)
 [![Docker Image](https://img.shields.io/badge/docker%20image-webplates%2Fgrpc--cli-blue.svg?style=flat-square)](https://hub.docker.com/r/webplates/grpc-cli)
 
-**Docker image wrapping [gRPC CLI](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md)**
+**Docker image for [gRPC CLI](https://github.com/grpc/grpc/blob/master/doc/command_line_tool.md)**
 
 
 ## Usage
